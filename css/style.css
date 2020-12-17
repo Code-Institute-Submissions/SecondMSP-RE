@@ -26,7 +26,7 @@
 }
 .navbar-inverse .navbar-inner {
 	background-repeat: repeat;
-	background-color: #0b333f;
+	background-color: #066a88;
 }
 .navbar-wrapper {
 	overflow:hidden;
@@ -107,8 +107,8 @@ ul#menu-main > li > a:focus {
 .Gallery .btn{   
 width: 250px;
 padding: 14px 30px;
-background-color:#0b333f;
-color: #fff;
+background-color:#cad9dd;
+color: #9c170e;
 align-items: center;
 display: flex;
 margin: 0 auto;
@@ -126,7 +126,7 @@ margin: 0 auto;
 
 
 .Gallery{
-    background-color:  #0b333f;
+    background-color:  #17708b;
     width: 100%;
     height: 250px;
     padding-bottom: 10px;
@@ -139,7 +139,7 @@ margin: 0 auto;
 }
 
 .button {
-  background-color: #4CAF50; /* Green */
+  background-color: rgb(247, 28, 28); 
   border: none;
   color: white;
   padding: 15px 32px;
@@ -202,9 +202,9 @@ margin: 0 auto;
         font-weight: 300;
       }
 
-      .contact-section{
-          padding-left: 30px;
-          padding-right: 30px;
+      #contact-us{
+          margin-left: 40px;
+          margin-right: 40px;
       }
 
     
@@ -213,12 +213,12 @@ margin: 0 auto;
  }
  
 .site-footer{
-	background-color:  #0b333f;
+	background-color:  #168db1;
 	padding:50px 0;
 	box-shadow:0 -2px 0 rgba(0,0,0,.07);
 }
 .site-footer-bottom{
-	background-color:#eceae4;
+	background-color:#748ab1;
 	padding:20px 0;
 	font-size:12px;
 	font-family: 'Roboto', sans-serif;
