@@ -4,11 +4,11 @@ Project's Name – Glory Tabernacle International
 
 Project Title:
 
-The project is a real life project for my church in Sweden, it is a website project with the aim of giving visitors access to all necessary information about the church, the mission, the leaders, the different department of the church and how interested visitors could Join. Glory Tabernacle is a non-governmental foundation that helps people with focus on Spiritual, social, and economic development of people.
+The project is a real life project for my church in Sweden, it is a simple website project with the aim of giving visitors access to all vital information about the church and how interested visitors could Join. Glory Tabernacle is a non-governmental foundation that helps people with focus on Spiritual, social, and economic development of people.
 
 Brief Project Method:
 
-The method use in the project are primary acquire from the Code Institute Fullstack Software Development Course modules in HTML, CSS and JavaScript. It is worthy of mention that I have studied other software development free materials, courses on Udemy, snippet codes, templates and Video tutorials on YouTube.
+The method use in the project are primarily acquire from the Code Institute Fullstack Software Development Course modules in HTML, CSS and JavaScript. It is worthy of mention that I have studied other software development free materials, courses on Udemy, snippet codes, templates and Video tutorials on YouTube.
 
 USER EXPERIENCE PROCESS:
 The project is designed for everyone with the smallest basic knowledge of how to browse through a website irrespective of age, the project is aim to be interesting to every visitor right from the home page to every other sections of the website. The following are the User Experience target I have in mind in the process of development:
@@ -30,10 +30,6 @@ As a church, it is important for visitors to be able to have direct contact and 
 
 • Map Direction: Visitor would be able to get real time direction from their location to the church facility through google map API.
 
-• Applied Content: visitors have access to audio and video materials as regards the services of the church.
-
-• Live Event: visitors will be able to join live events of the church by providing a navigation link directly to the YouTube channel of the church where live services are streamed.
-
 • Social media account: Links to different social media accounts to provide updates and vital information for visitors.
 
 • Future Meet up: Sections to provide information about future special programmes and weekly meetings for those interested.
@@ -53,13 +49,10 @@ Avoidance of over-crowded information and presentation.
 
 Contents to define what organisation is all about.
 
-Leadership of organisation.
 
 Different section and departments.
 
 How to contact and make inquiries.
-
-Most importantly how to join the church.
 
 Features:
 
@@ -68,31 +61,18 @@ Navigation bars: Designed for easy and quick access to different sections of inf
 Home page:
 
  
-The home page consist of two slides displaying pictures of service meetings at the church, a link to know the leadership of the church, a welcome note from the senior pastor, a quick access to sermon archive. A short video to tantalize the interest of the visitor, sections for weekly and future meetings, a link to the Gallery down the middle of the home page without going back up and footer with brief description of church and important navigation links.
+The home page consist of three slides displaying pictures of the church members with a welcome message.
 
 About us:
 
 
-This section gives all necessary information about the leadership of the church, pictures and a brief biographical description was provided.
-
-Our Ministries:
-
-
-In this section the website visitor will be able to check out the different department of the church specifically for example: women and men department, with specific information concerning what they do and even the location and time of meeting. Upcoming event information are also available in this section.
-
-Sermons:
-
-
-By clicking on this navbar the visitor will be presented with the option of choosing between audio or video sermon, with topics and the names of the authors indicated. As a church this is an important section for the visitors to be able to access the kind of messages being propagated in the church and decide for themselves.
+This section gives all necessary information about the composition of the church and the different services availaible.
 
 Gallery:
 
 
-Visitors will be able to see the pictures of different events of the church, reassuring them that people of all race, gender and nationalities are welcome in the church.
+Visitors will be able to see the pictures of different events of the church, reassuring them that people of all race, gender and nationalities are welcome in the church. Visitor can also return easily to the home page.
 
-Live Service:
-
-Visitors will be able to join live real time events of the church by clicking on this navbar. Visitor will be redirected to the church’s youtube channel for live streaming once clicked.
 
 Contact Us:
 
@@ -105,11 +85,7 @@ A contact page that require necessary details like email address, name for the c
 
 All sent email are directed to the address of the church once the visitor clicks send.
 
-Live feed pictures from the Instagram handle of the church through Instagram API.
 
-Give Offering:
-
-As an NGO the church all visitors interested in making donations to the church will be able to do that using from this section.
 
 Footer:
 
@@ -122,6 +98,10 @@ Future Ideas for the website:
 • Enable donation online for the church through the website.
 
 • Create an ecommerce database for sales activities eg. Sales of books and other literatures.
+
+
+
+
 
 CONTENT:
 
@@ -151,7 +131,7 @@ Used are mainly for the social media and links where gotten from font awesome ic
 
 Libraries and tools: Have been used to construct this project includes:
 
-Deployment of newworldsalon website to GitHub:
+Deployment of Glory Tabernacle website to GitHub:
 
 How to run this project locally:
 
