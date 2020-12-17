@@ -15,6 +15,15 @@
     ></script>
     <link rel="stylesheet" href="css/style.css">
     <title>second project</title>
+     <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+              
+    <script type="text/javascript">
+    (function() {
+        emailjs.init('user_n7lMd1DxLyPIbBGmiy5ya');
+        
+        })();
+    </script>
 </head>
 <body>
     <div class="navbar-wrapper">
@@ -165,7 +174,7 @@
         </div>
         
               <div class="row">
-                <form method="post" id="contactform" name="contactform" class="contact-form" action="mail/contact.php">
+                <form method="POST" id="contactform" name="contactform" class="contact-form" >
                   <div class="col-md-6 margin-15">
                     <div class="form-group">
                       <input type="text" id="name" name="name"  class="form-control input-lg" placeholder="Name*"  min="8" required>
@@ -183,7 +192,8 @@
                     </div>
                   </div>
                   <div class="col-md-12">
-                    <input id="submit" name="submit" type="submit" class="btn btn-primary btn-lg pull-right" value="Submit now!">
+
+                    <input id="submit" name="submit" type="submit" class="btn btn-primary btn-lg pull-right" value="Submit now!" onclick="sendMail();">
                   </div>
                 </form>
                 <div class="clearfix"></div>
@@ -243,7 +253,8 @@
 
         
 
-
+<script src="js/jquery-1.11.1.min.js"></script>
+<script src = "js/sendEmail.js"></script>
    <script src="js/map.js"></script> 
 </body>
 </html>
