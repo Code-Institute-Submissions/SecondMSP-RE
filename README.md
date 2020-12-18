@@ -123,7 +123,7 @@ Technologies used:
 
 Colours:
 
-Main colours used were whit and green, a representation of Glory also specified by the church.
+Main colours used were whit and deep green, a representation of Glory also specified by the church.
 
 Icons:
 
@@ -200,7 +200,7 @@ Gallery page
 
 • The pictures were arranged orderly to be interesting to the web visitor.
 
-• The link to the Gallery on the homepage is also functional.
+• The link to the Gallery on the homepage and return homepage link is also functional.
 
 About Page:
 • I checked that the image of the leaders and information about the church are cleary summarized any visitor.
@@ -210,16 +210,14 @@ Contact Page:
 
 • A functional google map with direction from any location of the visitors.
 
-• Live feed from the instagram handle
-
 • Users required to fill in the right details eg names, email address.
 
 Elements on every page
 
 Navbar:
-• When the user opens the website on mobile, confirm that the navbar is collapsed into a burger icon
+• Navigation links to the different sections and the footer.
 
-• Click the burger icon, confirm that the navbar list appears are expected.
+• The Name logo returns the visitor to the homepage.
 
 Footer:
 • Scroll to the bottom of the page, confirm that the footer contents is displayed as expected.
