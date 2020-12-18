@@ -123,7 +123,7 @@ Technologies used:
 
 Colours:
 
-Main colours used were whit and deep green, a representation of Glory also specified by the church.
+Main colours used were white and deep blue, a representation of Glory also specified by the church.
 
 Icons:
 
