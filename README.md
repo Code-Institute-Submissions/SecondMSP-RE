@@ -58,25 +58,29 @@ Features:
 
 Navigation bars: Designed for easy and quick access to different sections of information which the visitor intend to know, navbars such as: Home, About us, Our Ministries, sermons, Gallery and Contact will provide these accesses.
 
+<img src="assets/images/navbar1.png">
+
 Home page:
 
- 
 The home page consist of three slides displaying pictures of the church members with a welcome message.
+
+<img src="assets/images/home1.png">
 
 About us:
 
-
 This section gives all necessary information about the composition of the church and the different services availaible.
+
+<img src="assets/images/about1.png">
 
 Gallery:
 
-
 Visitors will be able to see the pictures of different events of the church, reassuring them that people of all race, gender and nationalities are welcome in the church. Visitor can also return easily to the home page.
 
+<img src="assets/images/gallery1.png">
+<img src="assets/images/gallery2.png">
 
 Contact Us:
 
- 
 As a church contact is very important and the contact page is designed with this prerogative. A contact form and map has been included for visitors’ use in contacting the church, while updates from the church social media can be see for further information. More on the Contact Page:
 
 A map referenced to google location API from where visitors’ can find direction with real time different travel options from their location direction to the church.
@@ -85,12 +89,18 @@ A contact page that require necessary details like email address, name for the c
 
 All sent email are directed to the address of the church once the visitor clicks send.
 
+<img src="assets/images/contact1.png">
+<img src="assets/images/contact2.png">
 
 
-Footer:
+
+Footer
 
 
 Visitors’ will be able to go back to any section they want to go back to view through navigation links at the footer, visitors can also check out the different social media account via nav links the footer.
+
+<img src="assets/images/footer1.png">
+
 
 Future Ideas for the website:
 • Add a live chat session where visitors can ask questions get responses in real time.
@@ -171,7 +181,7 @@ https://validator.w3.org/, Html viewer code beautify - https://codebeautify.org/
 Navbar:
 • I clicked each link on the navbar to ensure they are directed to the right file and functional. Where dropdown nav menu is expected I check to see they are working.
 
-Footer: • I hover over links in the footer, confirm the color change animation works as expected.
+Footer: 
 • I clicked all links in the footer, confirm that they take the user to the relevant pages within the site. Example, Facebook, Instagram and youtube.
 
 • I clicked the facebook icon, confirm that it opens a new tab and takes the user to the church facebook page.
