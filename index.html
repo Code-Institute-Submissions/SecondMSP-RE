@@ -14,11 +14,14 @@
         <link rel="stylesheet" href="css/style.css" />
         <title>second project</title>
 
-        <script>
-            (function () {
-                emailjs.init("user_n7lMd1DxLyPIbBGmiy5ya");
-            })();
-        </script>
+        <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
+</script>
+<script type="text/javascript">
+   (function(){
+      emailjs.init("user_n7lMd1DxLyPIbBGmiy5ya");
+   })();
+</script>
     </head>
     <body>
         <div class="navbar-wrapper">
@@ -163,7 +166,7 @@
                             </div>
 
                             <div class="row">
-                                <form method="POST" id="contactform" name="contactform" class="contact-form">
+                                <form onsubmit="return sendMail(this);"  id="contactform" name="contactform" class="contact-form">
                                     <div class="col-md-6 margin-15">
                                         <div class="form-group">
                                             <input type="text" id="name" name="name" class="form-control input-lg" placeholder="Name" minlength="8" required />
@@ -239,8 +242,6 @@
             </div>
         </footer>
         <script src="js/ie-support/validator.min.js"></script>
-        <script src="js/jquery-1.11.1.min.js"></script>
-        <script src="js/ie-support/plugin.js"></script>
         <script src="js/sendEmail.js"></script>
         <script src="js/map.js"></script>
     </body>
